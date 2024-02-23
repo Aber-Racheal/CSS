@@ -1,0 +1,11 @@
+div{
+    padding: 20px;
+    margin: 5%;
+    border: solid brown;
+}
+
+#container{
+    padding: 20px;
+    margin: 5%;
+    border: dotted brown;
+}
